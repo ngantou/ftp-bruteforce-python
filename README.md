@@ -41,6 +41,7 @@ ftp-bruteforce-python/
 
 ```bash
 python ftp_bruteforce.py -c <TARGET_IP> -l users.txt -p passwords.txt
+```
 
 
 ## 👨‍💻 Author
